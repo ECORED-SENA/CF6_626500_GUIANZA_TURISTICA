@@ -18,7 +18,7 @@
         .col-lg-11
           p.mb-0 El Instituto Colombiano de Normas Técnicas y Certificación - ICONTEC, conformado desde 1993 por la Ley de la República y ahora ente privado que tiene como propósito dar soporte y desarrollo a la investigación y normalización en Colombia, por lo que certifica la calidad de los procesos en el país en diferentes áreas y sectores económicos, lo que le ha permitido a la industria ser más competitiva a nivel internacional. 
     .bg-1.margin-n.p-5.mb-5
-      .row.justify-content-center.mb-5
+      .row.justify-content-center
         .col-lg-7
           p Para el turismo la aplicación de certificaciones internacionales representa un reto y un paso en su proceso de crecimiento y apertura a mercados internacionales, dado el soporte y la fiabilidad que brindan estos sellos, por el compromiso de velar por la salud de los turistas, visitantes o viajeros y todos los actores involucrados en la actividad turística.
             br
@@ -34,7 +34,7 @@
             li
               i.vineta
               | Valorar los riesgos de las actividades para la toma de decisiones sobre las acciones que se deberían implementar, (medidas de control de los riesgos) en el turismo.
-        .col-lg-5: img(src='@/assets/curso/temas/tema3/3.svg', alt='')
+        .col-lg-5.col-8: img(src='@/assets/curso/temas/tema3/3.svg', alt='')
     p.mb-5(data-aos='fade-right') A continuación algunos aspectos que  sugiere atender la Guía Técnica Colombiana  GTC 45 para minimizar el riesgo o convertirlo en un riesgo aceptable se encuentran en el siguiente listado:
     .row.justify-content-center.mb-5
       .col-lg-5
@@ -67,7 +67,7 @@
           .lista-ol--cuadro__vineta
             span 7
           | Revisar la validez del plan: mantener, actualizar, comunicar y documentar.
-      .col-lg-3: img(src='@/assets/curso/temas/tema3/4.svg', alt='')
+      .col-lg-3.col-8: img(src='@/assets/curso/temas/tema3/4.svg', alt='')
     p.mb-5(data-aos='fade-right') Todo el sector turismo debe establecer el seguimiento y obtención a las normas con el fin de hacer de esta actividad un sector de talla mundial. En los siguientes recursos se presenta información con respecto a la Guía Técnica Colombiana  GTC 45 y a la creación de la Ley de Acción Climática, esta última surge después del encuentro en Glasgow en noviembre de 2021, además se encuentran dos documentos que podrá encontrar en la biblioteca del SENA sobre el tema, para lo cual se solicita que se registre con su usuario y contraseña.
     .row.justify-content-center.mb-5
       .col-lg-6

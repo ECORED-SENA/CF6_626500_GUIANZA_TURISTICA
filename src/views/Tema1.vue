@@ -31,12 +31,12 @@
             .col-2: img(src='@/assets/curso/temas/tema1/3.svg', alt='')
             .col-lg-10
               p.mb-0 Riesgo o contingencia inminente de que suceda algún mal.
-        .col-lg-2: img(src='@/assets/curso/temas/tema1/4.svg', alt='').mt-2
+        .col-lg-2.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/4.svg', alt='').mt-2
         .col-lg-6
           .row.justify-content-center.align-items-center
-            .col-2: img(src='@/assets/curso/temas/tema1/5.svg', alt='')
+            .col-2.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema1/5.svg', alt='')
             .col-lg-10
-              p.mb-0 Por esta razón, se hace necesario desarrollar el concepto vinculándolo directamente con el tema del programa, es decir, cómo afecta el peligro a los eventos turísticos en un momento dado y cuáles herramientas o estrategias se pueden usar para disminuir su aparición o evitar que sucedan y de esta manera, ofrecer un servicio de alta calidad para el usuario que visite cualquier parte del país.
+              p.mb-lg-0.mb-3 Por esta razón, se hace necesario desarrollar el concepto vinculándolo directamente con el tema del programa, es decir, cómo afecta el peligro a los eventos turísticos en un momento dado y cuáles herramientas o estrategias se pueden usar para disminuir su aparición o evitar que sucedan y de esta manera, ofrecer un servicio de alta calidad para el usuario que visite cualquier parte del país.
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
       h4.px-3.mb-0.me-5 Definición e impacto de este elemento en el sector turístico colombiano
     p.mb-5(data-aos='fade-right') Para su definición se toman como referente tres fuentes que permiten tener una visión universal en cuanto al concepto, las cuales podrá encontrar en el siguiente recurso de aprendizaje:
@@ -127,6 +127,8 @@
           br
           |Ejemplo: los eventos sucedidos con el crucero del Titanic en 1912.
     p.mb-5(data-aos='fade-right') Por otro lado, las condiciones peligrosas hacen referencia a los sitios de trabajo o a la estructura del proceso y no al comportamiento humano, lo cual puede conocer en el recurso de aprendizaje:
+    h5(data-aos='fade-right') Condiciones peligrosas
+    p.mb-5(data-aos='fade-right') Estas hacen referencia a elementos que no se tienen en cuenta al momento de diseñar un evento turístico, por lo que no se cumple con la normatividad exigida. 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
@@ -168,7 +170,8 @@
       h4.px-3.mb-0.me-5 Identificación del peligro
     .row.justify-content-center.mb-5
       .col-lg-6
-        p.mb-5(data-aos='fade-right') El reconocimiento del riesgo es otro factor importante que se debe tener en cuenta, por lo que se revisa desde la metodología de identificación de factores, la cual consiste en caracterizar la identidad de aquellos que representan el peligro teniendo en cuenta los que se muestran a continuación:
+        p.mb-5(data-aos='fade-right') El reconocimiento del riesgo es otro factor importante que se debe tener en cuenta, por lo que se revisa desde la metodología de identificación de factores, la cual consiste en caracterizar la identidad de aquellos que representan el peligro teniendo en cuenta los que se muestran en el siguiente recurso de aprendizaje:
+        h5 Represetación de la identificación del peligro
         h5 Metodología para la identificación de peligro
         ol.lista-ol--cuadro
           li
@@ -275,6 +278,9 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.3 Análisis del escenario
     p.mb-5(data-aos='fade-right') El turista, el guía de turismo y los terceros (equipo de trabajo y grupos de apoyo) que hacen posible el desarrollo de una actividad comparten un mismo escenario con enfoques diferentes, en el siguiente recurso de aprendizaje se aclaran estos conceptos:
+      br
+      br
+      | Define los participantes que están involucrados en todo el proceso turístico. 
     .position-relative
       .tarjeta-icono.tarjeta.rounded-0.p-4.mb-lg-0.mb-3(style='background-color: #ffe6a1')
         .tarjeta-icono__icono: img(src='@/assets/curso/temas/tema1/29.svg', alt='')
@@ -325,7 +331,7 @@
               i.vineta
               | Naturaleza (ecoturismo, turismo de aventura, rural, acuarismo, torrentismo, avistamiento de aves o ballenas).
           p Otro concepto fundamental que debe tener claro al realizar su trabajo como gestor, administrador o guía turístico es saber cómo se hace para determinar el escenario del riesgo, lo cual puede revisar en el siguiente recurso de aprendizaje:
-        .col-lg-4: img(src='@/assets/curso/temas/tema1/33.svg' alt='AvatarTop' )
+        .col-lg-4.col-6: img(src='@/assets/curso/temas/tema1/33.svg' alt='AvatarTop' )
     .row.justify-content-center.mb-5
       .col-lg-9
         TabsA.color-acento-contenido.mb-5
@@ -338,7 +344,7 @@
           .tarjeta.p-5(titulo="Determinar la vulnerabilidad" style='background-color: #ccd3ca')
             h4 Determinar la vulnerabilidad
             p Un índice de vulnerabilidad está dado por la frecuencia o por la profundidad de los movimientos telúricos que se han presentado a través del tiempo en determinados sectores, por ejemplo: en Norte de Santander.
-      .col-lg-3: img(src='@/assets/curso/temas/tema1/34.svg', alt='')
+      .col-lg-3.col-6: img(src='@/assets/curso/temas/tema1/34.svg', alt='')
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -456,7 +462,7 @@
             li
               i.vineta
               | ¿El nivel de especialización del guía y el equipo de apoyo es el adecuado?
-        .col-lg-4: img(src='@/assets/curso/temas/tema1/39.svg', alt='')
+        .col-lg-4.col-6: img(src='@/assets/curso/temas/tema1/39.svg', alt='')
     //todo! Añadir documento ----------------------------------------------------------------------------------------------
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center

@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 6
       h1 Riesgos laborales del guía
+    p.mb-5(data-aos='fade-right') Se considera riesgo laboral la exposicíon a cualquier tipo de accidente dentro de un ambiente de trabajo, para un guía de turismo los niveles de riesgo están directamente asociados a las diferentes tipologías turísticas que se mencionan a continuación: 
     SlyderF.slyder-100.mb-5.text-center(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema6/1.svg' alt='AvatarTop')
@@ -69,7 +70,7 @@
             li
               i.vineta
               | Ambientales: estos son llamados naturales porque el ser humano no los puede controlar, como la lluvia.
-        .col-lg-6: img(src='@/assets/curso/temas/tema6/8.svg', alt='')
+        .col-lg-6.col-8: img(src='@/assets/curso/temas/tema6/8.svg', alt='')
     p.mb-5(data-aos='fade-right') En conclusión, el Sistema de Seguridad y Salud en el Trabajo (SG-SST), las unidades de riesgos, los sistemas públicos y privados se integran para abarcar el proceso global y lógico de vigilancia y mejora continua que garantiza a los trabajadores colombianos y ciudadanos acciones contundentes para el manejo de la seguridad como factor de alto interés, en los dos documentos que a continuación se muestran se pueden encontrar más detalles:
     .row.justify-content-center.mb-5
       .col-lg-6

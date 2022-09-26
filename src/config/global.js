@@ -516,13 +516,19 @@ export default {
       },
       {
         nombre: 'María Carolina Tamayo López',
-        cargo: 'Producción audiovisual',
+        cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Yicelly Estefania Mesa Silva',
-        cargo: 'Locución',
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Ilustración        ',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lady Adriana Ariza Luque',
+        cargo: 'Validación Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -533,19 +539,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Erika Viviana Sandoval Rojas',
+        nombre: 'Laura Ximena Hurtado Villalba ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Laura Gisselle Murcia Pardos',
+        nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Carmen Alicia Martínez Torres',
+        nombre: 'Ludwyng Corzo García',
         cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -563,7 +569,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Melina Tatiana Quintero Rodriguez',
+        nombre: 'Maria Camila Ovalle',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

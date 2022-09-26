@@ -6,6 +6,7 @@
       .titulo-principal__numero
         span 4
       h1 Seguridad turística
+    p #[sup 1] La norma menciona un plan de acción para efectos del guionaje turístico, es un plan de contingencia.
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.jpg')})`}"
@@ -15,15 +16,18 @@
           br
           br
           |Una de las necesidades prioritarias que deben atender y satisfacer los prestadores de servicios turísticos es la seguridad, controlando o minimizando los peligros y las condiciones de riesgo derivadas de estos.
+    p.mb-5(data-aos='fade-right') Para tener en cuenta...
     div(style='background-color: #ffe6a1').p-5.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-1.col-3: img(src='@/assets/curso/temas/tema2/37.svg', alt='')
+        .col-lg-1.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema2/37.svg', alt='')
         .col-lg-11 
           p.mb-0 La seguridad turística es la capacidad para dar seguridad en los escenarios físicos, las condiciones necesarias y suficientes para que turistas nacionales y extranjeros, las comunidades receptoras y los actores en general puedan desarrollar actividades turísticas en espacios libres de cualquier riesgo, ya sean estos de tipo físico, material, psicológico o ambiental, los cuales se deben tener presentes al momento de diseñar un evento turístico. 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.1 Fases de la seguridad turística
     p.mb-5(data-aos='fade-right') Cuando requiera diseñar un evento o gestionar un proyecto turístico a nivel nacional debe tener en cuenta las fases de la seguridad turística, el siguiente recurso las muestra con los elementos que favorecen la prestación de servicios turísticos de calidad a connacionales y extranjeros.
+    h3 Representación de las fases de la seguridad turística
+    p.mb-5(data-aos='fade-right') Las fases de ña seguridad turística son tres, las cuales se describen a continuación:
     .row.justify-content-center.mb-5
       .col-lg-9
         TabsA.color-acento-contenido.mb-5
@@ -82,7 +86,7 @@
               li
                 i.vineta
                 | Medición de resultados
-      .col-lg-3: img(src='@/assets/curso/temas/tema4/3.svg', alt='')
+      .col-lg-3.col-8: img(src='@/assets/curso/temas/tema4/3.svg', alt='')
     .bg-1.margin-n.p-5.mb-5
       .row.justify-content-center
         .col-lg-6
@@ -106,7 +110,7 @@
             li
               i.vineta
               | Diseñar e implementar protocolos en seguridad turística.
-        .col-lg-6: img(src='@/assets/curso/temas/tema4/4.svg', alt='')
+        .col-lg-6.col-8: img(src='@/assets/curso/temas/tema4/4.svg', alt='')
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.2 Protocolos de seguridad
@@ -114,6 +118,8 @@
       br
       br
       |Pueden existir en el turismo tantos protocolos en seguridad como actividades y lugares donde el guía y sus turistas desarrollan las actividades, en el recurso de aprendizaje se mencionan algunos de estos protocolos que se oficializan en este caso desde el Viceministerio de Turismo (Ministerio de Comercio Industria y Turismo & Fontur, 2013).
+    h3 Protocolos de seguridad turística
+    p.mb-5(data-aos='fade-right') La Organización Mundial de Turismo considera que es responsabilidad de cada pais la seguridad de los turistas que llegan a visitar la región, por lo que Colombia, mediante las políticas creadas, la policia de turismo y acuerdos con las entidades que ofrecen estos servicios, tienen protocolos que deben tenerse en cuenta: 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #ffd667').p-4.h-100
         .row.justify-content-center.mb-3
@@ -188,6 +194,9 @@
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
       h4.px-3.mb-0.me-5 Planes de emergencia
     p.mb-5(data-aos='fade-right') Tienen como objetivo proporcionar el conocimiento y los recursos físicos que permitan responder de manera eficiente a la situación de emergencia, disminuyendo el impacto por las amenazas internas y externas, para aclarar el tema se invita a revisar el siguiente recurso de aprendizaje donde encontrará algunos elementos clave al momento de construir uno para el sector turístico:
+      br
+      br
+      | ¿ Qué se debe tener en cuenta para el diseño de un plan de emergencia?
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema4/13.svg' alt='AvatarTop')
@@ -322,95 +331,96 @@
                       span Ver video
                       i.fas.fa-play
     p.mb-5(data-aos='fade-right') Igualmente, en la normativa se destacan las responsabilidades del guía, las cuales se podrán conocer en el siguiente recurso de aprendizaje:
+    h3 Responsabilidades civiles del guía 
     .row.justify-content-center.mb-5
-      .col-lg-7
+      .col-lg-7.mb-lg-0.mb-3
         .tarjeta(style='background-color: #ffe6a1').p-5
-          SlyderA.px-3
+          SlyderA.px-1
             div
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/30.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Prestar sus servicios en los términos ofrecidos y pactados con el turista o con la empresa que lo contrate, según corresponda.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/31.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Prestar sus servicios dando cumplimiento a las políticas del sector turismo y a las normas tributarias y de seguridad social.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/32.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Respetar la identidad y diversidad cultural de las comunidades encontradas en las zonas donde se preste el servicio, evitando que los visitantes a su cargo o bajo su orientación causen algún daño o irrespeten las etnias que se encuentren en el territorio. Informar previamente a los usuarios o a las empresas que lo contraten.
             div
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/33.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 En el idioma en el que  requiera la prestación del servicio.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/34.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Respetar las tarifas, expresando el costo total de los servicios, incluyendo cualquier tipo de tasa, cargo, sobrecargo o tarifa qué afecte el precio final. 
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/35.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Informar previamente al turista, viajero o pasajero las condiciones generales del lugar objeto de la visita, los riesgos, el equipamiento que conviene utilizar, así como la conveniencia de ser amparados por pólizas de seguros de accidente.
             div
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/36.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Observar los más altos niveles de calidad, oportunidad y eficiencia.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/37.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Abstenerse de exigir propinas.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/38.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Cumplir con las normas de protección del patrimonio cultural de la nación y de preservación del ambiente, evitando que los visitantes a su cargo o bajo su orientación colecten especies animales, vegetales o minerales, o extraigan, dañen o lesionen cualquier objeto de significación cultural o valor económico.
             div
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/39.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Cumplir con las disposiciones legales y reglamentarias en materia de prevención de la Explotación Sexual Comercial de Niños, Niñas y Adolescentes (ESCNNA).
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/40.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Mantener actualizada la información solicitada por el Ministerio de Comercio, Industria y Turismo a través de los canales que disponga el Ministerio para la inscripción o actualización de la tarjeta profesional de guía de turismo.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/41.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Mantener vigente y actualizada su inscripción en el Registro Nacional de Turismo.
             div
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/42.svg', alt='Texto que describa la imagen')
                 .col-10
                   p.mb-0 Incluir en toda su publicidad el número que corresponde al Registro Nacional de Turismo.
-              .row.mb-3.align-items-center
-                .col-md-2.mb-4.mb-md-0
+              .row.mb-3.align-items-center.justify-content-center
+                .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/43.svg', alt='Texto que describa la imagen')
                 .col-10
@@ -468,4 +478,10 @@ export default {
   right: 0
 .bloque-texto-g
   justify-content: flex-start
+.slyder-a__tipo-a .slyder-a__btn--sigt
+  right: -25px
+.slyder-a__tipo-a .slyder-a__btn--atrs
+  left: -25px
+.slyder-a__tipo-a .slyder-a__bullets
+  bottom: -20px
 </style>

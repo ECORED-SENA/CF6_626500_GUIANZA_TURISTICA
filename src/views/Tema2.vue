@@ -30,47 +30,50 @@
                   span Ir al sitio web
                   i.fas.fa-file-download
     p.mb-5(data-aos='fade-right') Colombia ha venido trabajando en el proceso de gestión del riesgo por lo que se ha beneficiado como país al realizar dicha actividad de diferentes formas, en especial cuando ha protegido la vida y los bienes de todos aquellos que viven en esta tierra, en el siguiente recurso de aprendizaje puede conocer cómo una organización se puede beneficiar:
+      br
+      br
+      | Toda empresa en Colombia que busca cumplir con los estándares de calidad en la prestación de servicioa o elaboración de productos, se beneficia al realizar la gestión y administración del riesgo de la siguiente forma: 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/2.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/2.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Inteligencia de negocios
             p.text-center Es un apoyo a la toma de decisiones en la organización.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/3.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/3.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Operación
             p.text-center Garantiza la operación normal de la actividad.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/4.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/4.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Reduce impacto
             p.text-center Minimiza la probabilidad e impacto de un riesgo.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/5.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/5.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Planeación
             p.text-center Mejora la calidad general de la actividad en la planeación.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/6.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/6.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Cultura de control
             p.text-center Fortalece la cultura de control de la actividad en una organización.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/7.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/7.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Trabajo por objetivos
             p.text-center Asegura la capacidad de logro del objetivo propuesto en una organización.
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3
           .col-11
-            img(src='@/assets/curso/temas/tema2/8.jpg' alt='AvatarTop' style='border-radius: 20px')
+            img.mb-3(src='@/assets/curso/temas/tema2/8.jpg' alt='AvatarTop' style='border-radius: 20px')
             h6.text-center Innovación
             p.text-center Se crean herramientas y controles orientados a la administración del riesgo.
     .row.justify-content-center.mb-5
@@ -109,7 +112,7 @@
               li
                 i.vineta 
                 p #[b Desarrollar, mantener y garantizar el proceso de manejo de desastres:] En el caso del paro nacional, tomado como ejemplo, se debía garantizar el manejo de desastres, por lo que se hizo necesario realizar reuniones para llegar a escuchar a las partes interesadas.
-      .col-lg-3: img(src='@/assets/curso/temas/tema2/10.svg', alt='')
+      .col-lg-3.col-6: img(src='@/assets/curso/temas/tema2/10.svg', alt='')
     p.mb-5(data-aos='fade-right') También se requiere conocer la estructura del Sistema Nacional para la Gestión del Riesgo, la cual puede revisar en la siguiente figura. Observe que esta tiene una cobertura nacional y que se van distribuyendo o delegando funciones a nivel departamental, local y aún más significativo es encontrar dicho sistema en las veredas alrededor de todo el país, por lo que el objetivo es concientizar a la población y estar presentes en el momento que Colombia lo requiera.
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -149,8 +152,10 @@
             li
               i.vineta
               | Liderar la coordinación del funcionamiento y el desarrollo del sistema nacional para la prevención y atención de desastres – SNPAD. 
-        .col-lg-4: img(src='@/assets/curso/temas/tema2/12.svg', alt='')
+        .col-lg-4.col-6: img(src='@/assets/curso/temas/tema2/12.svg', alt='')
     p.mb-5(data-aos='fade-right').text-center  En adición es importante que conozca cuáles son sus funciones que se resumen en el siguiente recurso de aprendizaje.
+    h5.ms-5 Unidad Nacion de Gestión de Desastres
+    p.ms-5 Funciones 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #ffd667').p-4.h-100
         .row.justify-content-center.mb-3
@@ -236,10 +241,9 @@
             li
               i.vineta 
               | Lograr el desarrollo sostenible de Bogotá.
-        .col-lg-4: img(src='@/assets/curso/temas/tema2/24.svg', alt='')
+        .col-lg-4.col-7: img(src='@/assets/curso/temas/tema2/24.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-10
-        //todo! Añadir documento ----------------------------------------------------------------------------------------------
         .tarjeta.color-primario.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -250,14 +254,14 @@
                   p.text-small Como parte de su aprendizaje autónomo se invita a ver el siguiente video sobre el Plan Nacional de Prevención de Desastres y cómo se aplica en todas las regiones con la ayuda de diferentes tipos de personas interesadas en concientizar a los ciudadanos colombianos y extranjeros que habitan el territorio.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(href="youtube.com/watch?v=Oeg1rftVTAA&ab_channel=UNGRDGestióndelRiesgodeDesastres" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=Oeg1rftVTAA" target="_blank")
                       span Ver video
                       i.fas.fa-play
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.2 Caracterización de los fenómenos naturales
     .bg-1.margin-n.p-5.mb-5
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-4
         .col-lg-6 
           p.mb-5(data-aos='fade-right') Se exponen los conceptos fundamentales para saber qué tipo de riesgos se pueden presentar de forma natural, estos son eventos de cambio que ocurren en la naturaleza, en los cuales la intervención humana es poco significativa, a continuación se enlistan los tres más importantes, ya que se definen por la frecuencia en su ocurrencia en un periodo de tiempo.
           ul.lista-ul--color
@@ -270,15 +274,15 @@
             li
               i.vineta 
               | Catastróficos, en este último caso se habla de que ocurren con menor frecuencia pero se pierde mayor cantidad de vidas y bienes.
-        .col-lg-4: img(src='@/assets/curso/temas/tema2/26.svg', alt='')
-    .titulo-icono.d-flex 
+        .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/26.svg', alt='')
+    p.mb-3(data-aos='fade-right') Teniendo en cuenta lo visto es de vital importancia para un guía turístico conocer cuál es la clasificación de los fenómenos naturales y cómo estos pueden alterar su trabajo, por lo que en el siguiente recurso de aprendizaje puede conocer su impacto en su quehacer diario:
+    .titulo-icono.d-flex.mb-2 
       i.reloj.me-3
       .titulo-icono-titulo
         h3.mb-0 Clasificación de los fenómenos naturales
-    p.mb-5(data-aos='fade-right') Un guía turístico debe estar preparado para identificar cuáles pueden ser los posibles riesgos surgidos de fenómenos naturales en la región donde trabaja, por lo que a continuación se mencionan:
-      br
-      br
-      | Existen diversidad de fenómenos naturales que pueden impactar directa o indirectamente un evento turístico.
+    p.mb-4(data-aos='fade-right') Un guía turístico debe estar preparado para identificar cuáles pueden ser los posibles riesgos surgidos de fenómenos naturales en la región donde trabaja, por lo que a continuación se mencionan:
+    h4 Fenomenos naturales
+    p Existen diversidad de fenómenos naturales que pueden impactar directa o indirectamente un evento turístico.
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeon-inactivo")
       .row(titulo="Astronómicos")
         .col-md-7.mb-4.mb-md-0
@@ -320,7 +324,7 @@
       .col-lg-8
         .tarjeta.color-primario.p-4
           //todo! Añadir documento ----------------------------------------------------------------------------------------------
-          .row.justify-content-around.align-items-center
+          .row.justify-content-around.align-items-center.mb-3
               .col-3.col-sm-2.col-lg-1
                 img(src="@/assets/curso/temas/tema1/35.svg")
               .col
@@ -382,22 +386,6 @@
       br
       br
       |Se usa en todas las organizaciones, inclusive para la toma de decisiones a todos los niveles.  ISO 31000 es el primer estándar internacional para la gestión del riesgo en el 2009 y fue actualizado en el 2018, también es la guía de referencia para otros sistemas de gestión. Todas estas normas se integran al sistema turístico como respuesta a la calidad y satisfacción del cliente.
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        //todo! Añadir documento ----------------------------------------------------------------------------------------------
-        .tarjeta.color-primario.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/tema1/40.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
-                .col-sm-auto
-                  .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                      span Ir al sitio web
-                      i.fas.fa-file-download
     p.mb-5(data-aos='fade-right').text-center Para investigar sobre el tema se invita a revisar los siguientes enlaces, lo que le permitirá fortalecer las competencias que hasta este momento se han  trabajado en este programa.
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -414,32 +402,32 @@
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc5.pdf')" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small ISO 45001.  Requisitos con orientación para la aplicación de seguridad y salud en el trabajo.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small ISO 31000:2018. Gestión del riesgo.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small ISO 14001. Requisitos necesarios para implementar un Sistema de Gestión Medioambiental.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
     p.mb-5(data-aos='fade-right').text-center A nivel de turismo las ISO representativas se encuentran descritas a continuación:
     .row.justify-content-center.mb-5
       .col-lg-7
@@ -453,7 +441,7 @@
           li
             i.vineta
             | ISO 20611 es el estándar que proporciona requisitos y recomendaciones para las prácticas de sostenibilidad en las actividades de turismo de aventura, mitigando los impactos negativos en los ecosistemas frágiles, no solo promueve la conservación de los hábitat naturales, sino que impulsa el respeto por las comunidades que reciben al turista. 
-      .col-lg-5
+      .col-lg-5.col-6
         img(src="@/assets/curso/temas/tema2/34.svg")
     p.mb-5(data-aos='fade-right').text-center Para revisar la temática lea las Normas ISO en los enlaces que acompañan el siguiente cuadro:
     .row.justify-content-center.mb-5
@@ -462,8 +450,8 @@
           //todo! Añadir documento ----------------------------------------------------------------------------------------------
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/temas/tema1/40.svg")
-                img(src="@/assets/curso/temas/tema1/35.svg").mb-5
+                img(src="@/assets/curso/temas/tema1/40.svg").mb-5
+                img(src="@/assets/curso/temas/tema1/35.svg")
             .col-9
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
@@ -471,24 +459,24 @@
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://citur.gov.co/pages/1#gsc.tab=0" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small ISO 21902 turismo accesible para todas las personas
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://www.unwto.org/es/news/publicada-la-primera-norma-internacional-sobre-turismo-accesible-para-todas-las-personas" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small ISO 20611 y NTC sobre turismo de aventura  6523
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc8.pdf')" target="_blank")
-                      span Ver video
-                      i.fas.fa-play     
+                      span Ver documento
+                      i.fas.fa-file     
     p.mb-5(data-aos='fade-right') Para el caso específico de Colombia, el Estado ha venido diseñando normas para el sector turístico de alta calidad, con el fin de darle visibilidad internacional y recibir divisas por esos ingresos, revise el siguiente enlace donde encontrará las normas técnicas.     
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -524,7 +512,7 @@
           br
           br
           |Una parte importante que se debe tener en cuenta al momento de gestionar o administrar un proyecto como guía turístico es tener presente que el recurso humano que está involucrado en todo el proceso cuente con normas de seguridad, por lo anterior, se invita a profundizar en el tema, haciendo clic en el siguiente enlace.
-      .col-lg-2: img(src='@/assets/curso/temas/tema2/36.svg', alt='')
+      .col-lg-2.col-6: img(src='@/assets/curso/temas/tema2/36.svg', alt='')
     .row.justify-content-center.mb-5
       .col-lg-4
         //todo! Añadir documento ----------------------------------------------------------------------------------------------
@@ -541,9 +529,10 @@
                     a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc9.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-file-download
+    p.mb-5(data-aos='fade-right') Para tener en cuenta...
     div(style='background-color: #ffe6a1').p-5.mb-5
-      .row.justify-content-center.mb-5
-        .col-lg-1.col-3: img(src='@/assets/curso/temas/tema2/37.svg', alt='')
+      .row.justify-content-center
+        .col-lg-1.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema2/37.svg', alt='')
         .col-lg-11 
           h5 Entre los aspectos que trabaja la SST están:  
           ul.lista-ul
