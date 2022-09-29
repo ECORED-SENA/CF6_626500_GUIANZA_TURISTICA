@@ -110,9 +110,6 @@
                     a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000067913" target="_blank")
                       span Ver video
                       i.fas.fa-play
-    hr
-    p #[sup 1] La norma menciona un plan de acción para efectos del guionaje turístico, es un plan de contingencia. 
-
 </template>
 
 <script>

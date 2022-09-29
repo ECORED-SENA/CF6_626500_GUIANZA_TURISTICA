@@ -3,7 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Analice el esquema que se muestra a continuación. Con esta acción, usted hará su propia síntesis del contenido trabajado en este componente formativo. Si lo estima conveniente, haga un repaso de los puntos que, para usted, valdría reforzar. Finalmente, registre algunas conclusiones en su libreta personal de apuntes.
+    p Para resumir se pueden considerar varios elementos o conceptos que el aprendiz debe conocer como parte de la competencia desarrollada en este componente formativo, estos son a grandes rasgos claves para ofrecer servicios de alta calidad a turistas nacionales y extranjeros.
+      br
+      br
+      |En el  mapa conceptual se muestran dichos elementos que le permitirán analizar la información y asociar los temas vistos con el fin de reforzar su aprendizaje.
+
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

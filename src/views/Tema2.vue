@@ -32,7 +32,7 @@
     p.mb-5(data-aos='fade-right') Colombia ha venido trabajando en el proceso de gestión del riesgo por lo que se ha beneficiado como país al realizar dicha actividad de diferentes formas, en especial cuando ha protegido la vida y los bienes de todos aquellos que viven en esta tierra, en el siguiente recurso de aprendizaje puede conocer cómo una organización se puede beneficiar:
       br
       br
-      | Toda empresa en Colombia que busca cumplir con los estándares de calidad en la prestación de servicioa o elaboración de productos, se beneficia al realizar la gestión y administración del riesgo de la siguiente forma: 
+      | Toda empresa en Colombia que busca cumplir con los estándares de calidad en la prestación de servicios o elaboración de productos, se beneficia al realizar la gestión y administración del riesgo de la siguiente forma: 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #b7ceac').p-4.h-100
         .row.justify-content-center.mb-3

@@ -119,7 +119,7 @@
       br
       |Pueden existir en el turismo tantos protocolos en seguridad como actividades y lugares donde el guía y sus turistas desarrollan las actividades, en el recurso de aprendizaje se mencionan algunos de estos protocolos que se oficializan en este caso desde el Viceministerio de Turismo (Ministerio de Comercio Industria y Turismo & Fontur, 2013).
     h3 Protocolos de seguridad turística
-    p.mb-5(data-aos='fade-right') La Organización Mundial de Turismo considera que es responsabilidad de cada pais la seguridad de los turistas que llegan a visitar la región, por lo que Colombia, mediante las políticas creadas, la policia de turismo y acuerdos con las entidades que ofrecen estos servicios, tienen protocolos que deben tenerse en cuenta: 
+    p.mb-5(data-aos='fade-right') La Organización Mundial de Turismo considera que es responsabilidad de cada país la seguridad de los turistas que llegan a visitar la región, por lo que Colombia, mediante las políticas creadas, la policia de turismo y acuerdos con las entidades que ofrecen estos servicios, tienen protocolos que deben tenerse en cuenta: 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #ffd667').p-4.h-100
         .row.justify-content-center.mb-3
