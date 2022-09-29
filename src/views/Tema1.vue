@@ -208,8 +208,8 @@
                 .col-lg-11
                   h3.mb-1 Guía Técnica Colombiana.
                   p.text-small Orienta la identificación de los peligros y da la metodología para la valoración de los riesgos de seguridad y salud en el trabajo.
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-                    span Ir al sitio web
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc1.pdf')" target="_blank")
+                    span Ver documento
                     i.fas.fa-file-download
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
@@ -218,9 +218,9 @@
               .row.justify-content-end.align-items-center
                 .col-lg-11
                   p.text-small La evaluación interactiva de los riesgos en línea, desarrollada por la EU-OSHA y que evalúa las clases generales del riesgo.  
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(href="https://oiraproject.eu/es/oira-tools" target="_blank") 
                     span Ir al sitio web
-                    i.fas.fa-file-download
+                    i.fas.fa-link
       .imagen-relative.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/25.svg' alt='AvatarTop' )
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
