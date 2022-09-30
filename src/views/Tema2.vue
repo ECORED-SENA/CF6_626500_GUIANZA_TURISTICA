@@ -283,6 +283,9 @@
     p.mb-4(data-aos='fade-right') Un guía turístico debe estar preparado para identificar cuáles pueden ser los posibles riesgos surgidos de fenómenos naturales en la región donde trabaja, por lo que a continuación se mencionan:
     h4 Fenomenos naturales
     p Existen diversidad de fenómenos naturales que pueden impactar directa o indirectamente un evento turístico.
+      .row.justify-content-center.mb-5
+        .col-lg-10
+          img(src='@/assets/curso/temas/tema2/disaster.jpg', alt='' style='border-radius: 20px')
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeon-inactivo")
       .row(titulo="Astronómicos")
         .col-md-7.mb-4.mb-md-0
