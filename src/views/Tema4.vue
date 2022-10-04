@@ -181,9 +181,9 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.text-small Elaboración e implementación de protocolos de seguridad turística.
+              p.mb-0 Elaboración e implementación de protocolos de seguridad turística.
             .col-sm-auto
-              .d-block.mb-4
+              .d-block
                 a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/CMSPages/GetFile.aspx?guid=7e631b5f-d82c-4c49-89e9-27a8248d7a49" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
@@ -334,95 +334,95 @@
     h3 Responsabilidades civiles del guía 
     .row.justify-content-center.mb-5
       .col-lg-7.mb-lg-0.mb-3
-        .tarjeta(style='background-color: #ffe6a1').p-5
-          SlyderA.px-1
+        .tarjeta(style='background-color: #ffe6a1').p-5.bullets-down 
+          SlyderA.px-3
             div
               .row.mb-3.align-items-center.justify-content-center
-                .col-md-2.mb-4.mb-md-0.col-3
+                .col-2
                   figure
-                    img(src='@/assets/curso/temas/tema4/30.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/30.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Prestar sus servicios en los términos ofrecidos y pactados con el turista o con la empresa que lo contrate, según corresponda.
               .row.mb-3.align-items-center.justify-content-center
-                .col-md-2.mb-4.mb-md-0.col-3
+                .col-2
                   figure
-                    img(src='@/assets/curso/temas/tema4/31.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/31.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Prestar sus servicios dando cumplimiento a las políticas del sector turismo y a las normas tributarias y de seguridad social.
               .row.mb-3.align-items-center.justify-content-center
-                .col-md-2.mb-4.mb-md-0.col-3
+                .col-2
                   figure
-                    img(src='@/assets/curso/temas/tema4/32.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/32.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Respetar la identidad y diversidad cultural de las comunidades encontradas en las zonas donde se preste el servicio, evitando que los visitantes a su cargo o bajo su orientación causen algún daño o irrespeten las etnias que se encuentren en el territorio. Informar previamente a los usuarios o a las empresas que lo contraten.
             div
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/33.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/33.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 En el idioma en el que  requiera la prestación del servicio.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/34.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/34.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Respetar las tarifas, expresando el costo total de los servicios, incluyendo cualquier tipo de tasa, cargo, sobrecargo o tarifa qué afecte el precio final. 
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/35.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/35.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Informar previamente al turista, viajero o pasajero las condiciones generales del lugar objeto de la visita, los riesgos, el equipamiento que conviene utilizar, así como la conveniencia de ser amparados por pólizas de seguros de accidente.
             div
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/36.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/36.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Observar los más altos niveles de calidad, oportunidad y eficiencia.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/37.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/37.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Abstenerse de exigir propinas.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/38.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/38.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Cumplir con las normas de protección del patrimonio cultural de la nación y de preservación del ambiente, evitando que los visitantes a su cargo o bajo su orientación colecten especies animales, vegetales o minerales, o extraigan, dañen o lesionen cualquier objeto de significación cultural o valor económico.
             div
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/39.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/39.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Cumplir con las disposiciones legales y reglamentarias en materia de prevención de la Explotación Sexual Comercial de Niños, Niñas y Adolescentes (ESCNNA).
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/40.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/40.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Mantener actualizada la información solicitada por el Ministerio de Comercio, Industria y Turismo a través de los canales que disponga el Ministerio para la inscripción o actualización de la tarjeta profesional de guía de turismo.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/41.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/41.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Mantener vigente y actualizada su inscripción en el Registro Nacional de Turismo.
             div
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/42.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/42.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Incluir en toda su publicidad el número que corresponde al Registro Nacional de Turismo.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
-                    img(src='@/assets/curso/temas/tema4/43.svg', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema4/43.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
                   p.mb-0 Las demás obligaciones establecidas en materia de publicidad para los prestadores de servicios turísticos. 
       .col-lg-5: img(src='@/assets/curso/temas/tema4/44.jpg', alt='')
@@ -473,15 +473,20 @@ export default {
 </script>
 
 <style lang="sass">
-.bloque-texto-g__img
-  left: auto
-  right: 0
-.bloque-texto-g
-  justify-content: flex-start
-.slyder-a__tipo-a .slyder-a__btn--sigt
-  right: -25px
-.slyder-a__tipo-a .slyder-a__btn--atrs
-  left: -25px
-.slyder-a__tipo-a .slyder-a__bullets
-  bottom: -20px
+.bloque-derecha
+  .bloque-texto-g__img
+    left: auto
+    right: 0
+  .bloque-texto-g
+    justify-content: flex-start
+
+.bullets-down
+  .slyder-a__tipo-a .slyder-a__bullets
+    bottom: -80px !important
+  .slyder-a__tipo-a .slyder-a__btn--sigt
+    right: -30px !important
+  .slyder-a__tipo-a .slyder-a__btn--atrs
+    left: -40px !important
+  .slyder-a__tipo-a .slyder-a__bullets
+    bottom: -20px !important
 </style>

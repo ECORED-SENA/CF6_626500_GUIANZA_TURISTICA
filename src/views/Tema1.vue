@@ -20,7 +20,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.p-3
           .text-center
-            h4.fw-normal Peligro 
+            p Peligro 
               br
               | Definición de la palabra peligro
           .row.justify-content-center.align-items-center.mb-3
@@ -169,7 +169,7 @@
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
       h4.px-3.mb-0.me-5 Identificación del peligro
     .row.justify-content-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         p.mb-5(data-aos='fade-right') El reconocimiento del riesgo es otro factor importante que se debe tener en cuenta, por lo que se revisa desde la metodología de identificación de factores, la cual consiste en caracterizar la identidad de aquellos que representan el peligro teniendo en cuenta los que se muestran en el siguiente recurso de aprendizaje:
         h5 Represetación de la identificación del peligro
         h5 Metodología para la identificación de peligro
@@ -195,33 +195,33 @@
             span 5
           | Instalaciones
             
-      .col-lg-6: img(src='@/assets/curso/temas/tema1/24.jpg' alt='AvatarTop' style='border-radius: 20px')
+      .col-lg-6.col-8(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/24.jpg' alt='AvatarTop' style='border-radius: 20px')
     p.text-center En el siguiente recurso de aprendizaje encontrará la normatividad en Colombia para identificar el riesgo:
-    .position-relative
+    .position-relative(data-aos="zoom-in")
       .row
-        .col-lg-9
+        .col-xl-9
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img.mb-lg-0.mb-3
-              img(src='@/assets/curso/temas/tema1/26.svg' alt='AvatarTop')
-            .tarjeta(style='background-color: #ffe6a1').p-5
+              img(src='@/assets/curso/temas/tema1/26.svg' alt='AvatarTop' style='width: 113px')
+            .tarjeta(style='background-color: #ffe6a1 ; border-radius: 20px 20px 0px 0px').p-5
               .row.justify-content-end.align-items-center
                 .col-lg-11
-                  h3.mb-1 Guía Técnica Colombiana.
-                  p.text-small Orienta la identificación de los peligros y da la metodología para la valoración de los riesgos de seguridad y salud en el trabajo.
+                  h4.mb-1 Guía Técnica Colombiana.
+                  p Orienta la identificación de los peligros y da la metodología para la valoración de los riesgos de seguridad y salud en el trabajo.
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc1.pdf')" target="_blank")
                     span Ver documento
                     i.fas.fa-file-download
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema1/27.svg' alt='AvatarTop')
-            .tarjeta(style='background-color: #ffd667').p-5
+              img(src='@/assets/curso/temas/tema1/27.svg' alt='AvatarTop' style='width: 113px')
+            .tarjeta(style='background-color: #ffd667 ; border-radius: 0px 0px 20px 20px ').p-5
               .row.justify-content-end.align-items-center
                 .col-lg-11
-                  p.text-small La evaluación interactiva de los riesgos en línea, desarrollada por la EU-OSHA y que evalúa las clases generales del riesgo.  
+                  p La evaluación interactiva de los riesgos en línea, desarrollada por la EU-OSHA y que evalúa las clases generales del riesgo.  
                   a.boton.color-acento-botones.texto-blanco(href="https://oiraproject.eu/es/oira-tools" target="_blank") 
                     span Ir al sitio web
                     i.fas.fa-link
-      .imagen-relative.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/25.svg' alt='AvatarTop' )
+      .imagen-relative.d-none.d-xl-block: img(src='@/assets/curso/temas/tema1/25.svg' alt='AvatarTop' )
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.2 Riesgo 
@@ -252,9 +252,9 @@
             td La combinación de la probabilidad de que ocurra uno o más eventos o exposiciones peligrosas y la severidad de lesiones o enfermedad, que puede ser causada por los eventos o exposiciones se denomina riesgo.
             td Combinación de la probabilidad de que ocurra un suceso peligroso con la gravedad de las lesiones o daños para la salud que puede causar tal suceso.
     .cajon.color-secundario.p-5.mb-4(style='background-color: #b7ceac')
-      .row.justify-content-center.align-items-center
-        .col-lg-1.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema1/28.svg', alt='')
-        .col-lg-11
+      .row.justify-content-center.align-items-center.g-0
+        .col-lg-2.col-3.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema1/28.svg', alt='' style='width: 95px').m-auto
+        .col-lg-10
           p.mb-0 Por normativa mundial los estándares ISO establecen lineamientos internacionales que permiten delimitar criterios sobre diferentes temas, para este caso se habla de la evaluación y valoración de los riesgos, cuyo objetivo fundamental es satisfacer las condiciones de seguridad y calidad del servicio que se ofrece a un usuario o turista, por lo que el Sistema de Gestión de Calidad permite identificar cada uno de los riesgos, evaluarlos, valorarlos y establecer medidas correctivas de mitigación, prevención o de control, con el fin de que estos disminuyan o no vuelvan a suceder.
     .tabla-a.tabla-editada.color-acento-botones.mb-5
       table
@@ -282,7 +282,7 @@
       br
       | Define los participantes que están involucrados en todo el proceso turístico. 
     .position-relative
-      .tarjeta-icono.tarjeta.rounded-0.p-4.mb-lg-0.mb-3(style='background-color: #ffe6a1')
+      .tarjeta-icono.tarjeta.p-4.mb-lg-0.mb-3(style='background-color: #ffe6a1; border-radius: 20px 20px 0px 0px')
         .tarjeta-icono__icono: img(src='@/assets/curso/temas/tema1/29.svg', alt='')
         .tarjeta-icono__texto.ms-5
           .row
@@ -296,17 +296,17 @@
             .col-lg-8
               h6 El guía de turismo:
               p  Es su ambiente laboral donde debe velar por su integridad y la del turista.
-      .tarjeta-icono.tarjeta.rounded-0.p-4.mb-lg-0.mb-3(style='background-color: #ffd667')
+      .tarjeta-icono.tarjeta.p-4.mb-lg-0.mb-3(style='background-color: #ffd667 ; border-radius: 0px 0px 20px 20px')
         .tarjeta-icono__icono: img(src='@/assets/curso/temas/tema1/31.svg', alt='')
         .tarjeta-icono__texto.ms-5
           .row
-            .col-lg-8
+            .col-lg-7
               h6 Terceros:
               p Colombiavive.com, nombre de la empresa que presta los servicios de turismo y  son los que gestionan todo el proceso.
-      .imagen-relative.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/32.svg' alt='AvatarTop' )
+      .imagen-relative.d-none.d-xl-block: img(src='@/assets/curso/temas/tema1/32.svg' alt='AvatarTop' style='width: 400px')
     .bg-1.margin-n.p-5.mb-5
       .row.justify-content-center
-        .col-lg-6
+        .col-lg-6(data-aos="fade-right")
           p De igual forma, se hace necesario identificar cuáles elementos externos se consideran los factores de riesgo derivados de un peligro identificado en cualquier actividad turística, tales como:
           ul.lista-ul--color
             li
@@ -331,9 +331,9 @@
               i.vineta
               | Naturaleza (ecoturismo, turismo de aventura, rural, acuarismo, torrentismo, avistamiento de aves o ballenas).
           p Otro concepto fundamental que debe tener claro al realizar su trabajo como gestor, administrador o guía turístico es saber cómo se hace para determinar el escenario del riesgo, lo cual puede revisar en el siguiente recurso de aprendizaje:
-        .col-lg-4.col-6: img(src='@/assets/curso/temas/tema1/33.svg' alt='AvatarTop' )
+        .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/33.svg' alt='AvatarTop' )
     .row.justify-content-center.mb-5
-      .col-lg-9
+      .col-lg-9(data-aos="fade-right")
         TabsA.color-acento-contenido.mb-5
           .tarjeta.p-5(titulo="Identificar y desarrollar el mapa del peligro  " style='background-color: #ccd3ca')
             h4 Identificar y desarrollar el mapa del peligro   
@@ -344,8 +344,8 @@
           .tarjeta.p-5(titulo="Determinar la vulnerabilidad" style='background-color: #ccd3ca')
             h4 Determinar la vulnerabilidad
             p Un índice de vulnerabilidad está dado por la frecuencia o por la profundidad de los movimientos telúricos que se han presentado a través del tiempo en determinados sectores, por ejemplo: en Norte de Santander.
-      .col-lg-3.col-6: img(src='@/assets/curso/temas/tema1/34.svg', alt='')
-    .tarjeta.color-primario.p-3.mb-5
+      .col-lg-3.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/34.svg', alt='')
+    .tarjeta.color-primario.p-3.mb-5(data-aos="zoom-in")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema1/35.svg")
@@ -381,7 +381,7 @@
               img(src='@/assets/curso/temas/tema1/36.svg', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Condiciones peligrosas")
         .row
-          .col-md-8.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
             p Asociadas a los factores de trabajo o su forma de planificación (plan de acción) para el desarrollo del servicio:
             ul.lista-ul--color
               li
@@ -413,7 +413,7 @@
                 i.fas.fa-dot-circle
                 | Procesos de comunicación (conocimiento del plan de acción)
         
-          .col-md-4
+          .col-md-4(data-aos="fade-left")
             figure
               img(src='@/assets/curso/temas/tema1/37.jpg', alt='Texto que describa la imagen' style='border-radius: 20px')
       .py-3.py-md-4(titulo="Condiciones fuera de control")
@@ -430,7 +430,7 @@
     .bg-1.margin-n.p-5.mb-5
       p.mb-5(data-aos='fade-right') Continuando con el tema se hace necesario identificar los peligros asociados a una actividad guiada por lo que el guía o el equipo deben responder las siguientes preguntas, ya que las respuestas darán pautas para diseñar un trabajo de calidad que proteja la seguridad del usuario. En el siguiente listado podrá conocer algunas preguntas básicas para definir un plan de acción:
       .row.justify-content-center.mb-5
-        .col-lg-6
+        .col-lg-6(data-aos="fade-right")
           ul.lista-ul--color
             li
               i.vineta
@@ -462,7 +462,7 @@
             li
               i.vineta
               | ¿El nivel de especialización del guía y el equipo de apoyo es el adecuado?
-        .col-lg-4.col-6: img(src='@/assets/curso/temas/tema1/39.svg', alt='')
+        .col-lg-4.col-6(data-aos="fade-left"): img(src='@/assets/curso/temas/tema1/39.svg', alt='')
     //todo! Añadir documento ----------------------------------------------------------------------------------------------
     .tarjeta.color-primario.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -521,6 +521,7 @@ export default {
   right: 0
   bottom: 0
   width: 420px
+  transform: translateX(10%)
 .tarjeta-icono
   position: relative
   margin-left: 3rem

@@ -20,10 +20,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.text-small En esta página web tendrá acceso a la Estructura Nacional del Sistema de Gestión del Riesgo de Desastres donde podrá conocer grosso modo cómo se creó y cuáles son las entidades que lo componen.
+              p.text-small Sistema de Gestión del Riesgo de Desastres. 
                 br
                 br
-                |Sistema de Gestión del Riesgo de Desastres.
+                | En esta página web tendrá acceso a la Estructura Nacional del Sistema de Gestión del Riesgo de Desastres donde podrá conocer grosso modo cómo se creó y cuáles son las entidades que lo componen.
             .col-sm-auto
               .d-block.mb-4
                 a.boton.color-acento-botones.texto-blanco(href="http://portal.gestiondelriesgo.gov.co/Paginas/Estructura.aspx" target="_blank")
@@ -274,8 +274,8 @@
             li
               i.vineta 
               | Catastróficos, en este último caso se habla de que ocurren con menor frecuencia pero se pierde mayor cantidad de vidas y bienes.
-        .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/26.svg', alt='')
-    p.mb-3(data-aos='fade-right') Teniendo en cuenta lo visto es de vital importancia para un guía turístico conocer cuál es la clasificación de los fenómenos naturales y cómo estos pueden alterar su trabajo, por lo que en el siguiente recurso de aprendizaje puede conocer su impacto en su quehacer diario:
+        .col-lg-4.col-8: img(src='@/assets/curso/temas/tema2/26.png', alt='')
+    p.mb-5(data-aos='fade-right') Teniendo en cuenta lo visto es de vital importancia para un guía turístico conocer cuál es la clasificación de los fenómenos naturales y cómo estos pueden alterar su trabajo, por lo que en el siguiente recurso de aprendizaje puede conocer su impacto en su quehacer diario:
     .titulo-icono.d-flex.mb-2 
       i.reloj.me-3
       .titulo-icono-titulo
@@ -354,12 +354,13 @@
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.3 Legislación y normativa
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/33.jpg')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La implementación de un sistema de gestión de riesgos contempla requisitos legales que los prestadores de servicios turísticos deben cumplir en las diferentes actividades, con el fin de proteger a los trabajadores, los turistas y el personal involucrado en el saber actuar del control del peligro en cualquier contexto.
+    .bloque-derecha
+      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/33.jpg')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 La implementación de un sistema de gestión de riesgos contempla requisitos legales que los prestadores de servicios turísticos deben cumplir en las diferentes actividades, con el fin de proteger a los trabajadores, los turistas y el personal involucrado en el saber actuar del control del peligro en cualquier contexto.
     p.mb-5(data-aos='fade-right') Las Normas ISO (International Organization for Standardization) y OHSAS (Sistema de Gestión de la Salud y Seguridad Ocupacional) forman parte de sistemas de gestión internacional que tienen por objetivo optimizar actividades y procesos empresariales, no son leyes que una empresa deba cumplir dentro de un marco legal sino herramientas que ayudan a dar cumplimiento y mejorar con calidad lo mandado por las leyes laborales o que reglamentan alguna actividad de salud y seguridad.  Las empresas deben certificarse en este tipo de normas para funcionar lealmente.
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
       h4.px-3.mb-0.me-5 Norma ISO (Organización Internacional de Normalización)
@@ -370,16 +371,16 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         //todo! Añadir documento ----------------------------------------------------------------------------------------------
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
               img(src="@/assets/curso/temas/tema1/40.svg")
             .col
               .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
+                .col.mb-sm-0
+                  p.mb-0 Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
                 .col-sm-auto
-                  .d-block.mb-4
+                  .d-block
                     a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales" target="_blank")
                       span Ir al sitio web
                       i.fas.fa-file-download
