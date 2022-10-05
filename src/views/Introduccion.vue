@@ -16,7 +16,7 @@
       | A partir de esto, se hizo necesario diseñar programas que formarán a dichos profesionales, por lo que el SENA virtual construyó este curso que se denomina “Guianza turística”, del cual hace parte el componente Atención de incidentes en el servicio guiado, con este propósito se anima a ver el siguiente recurso de aprendizaje.
     figure(data-aos='zoom-in')
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ng6c11GlNsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/i0aVdMpKmaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 

@@ -368,7 +368,7 @@
             p Son ocasionados por factores personales originados con comportamientos inadecuados durante la prestación del servicio guiado, trayendo como consecuencia una alta probabilidad de materializar un peligro en el contexto del servicio, tales como:  
               br
               br
-              |los pensamientos de las personas, los modelos mentales, los valores, la ética asociada al guía de turismo, los temas de salud (estrés, estado mental, condiciones físicas, fatiga), el incumplimiento a los estándares exigidos por la norma o entregados por la agencia contratante para el desarrollo del recorrido, o el nivel de competitividad de las personas…
+              |Los pensamientos de las personas, los modelos mentales, los valores, la ética asociada al guía de turismo, los temas de salud (estrés, estado mental, condiciones físicas, fatiga), el incumplimiento a los estándares exigidos por la norma o entregados por la agencia contratante para el desarrollo del recorrido, o el nivel de competitividad de las personas…
               br
               br
               |Al identificar estos factores personales se deben establecer modelos de gestión y crear herramientas para reducir su ocurrencia.

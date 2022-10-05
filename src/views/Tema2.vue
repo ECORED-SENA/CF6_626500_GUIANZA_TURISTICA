@@ -413,7 +413,7 @@
                   p.text-small ISO 45001.  Requisitos con orientación para la aplicación de seguridad y salud en el trabajo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
 
                       span Ver documento
                       i.fas.fa-file
@@ -422,7 +422,7 @@
                   p.text-small ISO 31000:2018. Gestión del riesgo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
 
                       span Ver documento
                       i.fas.fa-file
@@ -431,7 +431,7 @@
                   p.text-small ISO 14001. Requisitos necesarios para implementar un Sistema de Gestión Medioambiental.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
 
                       span Ver documento
                       i.fas.fa-file
@@ -568,7 +568,7 @@
     p.mb-5(data-aos='fade-right').text-center Para resumir el tema sobre normatividad en el sector turístico se invita a mirar el siguiente video.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/i0aVdMpKmaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/N67chNH-rZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
