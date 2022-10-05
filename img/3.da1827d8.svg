@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="165" viewBox="0 0 165 165">
+  <g id="_3" data-name="3" transform="translate(-367 -954)">
+    <circle id="Elipse_5497" data-name="Elipse 5497" cx="82.5" cy="82.5" r="82.5" transform="translate(367 954)" fill="#ccd3ca"/>
+    <g id="agencia-de-viajes" transform="translate(388.896 975.896)">
+      <circle id="Elipse_5514" data-name="Elipse 5514" cx="60.679" cy="60.679" r="60.679" transform="translate(0.104 0.104)" fill="#f7cc4b"/>
+      <path id="Trazado_690921" data-name="Trazado 690921" d="M161.466,78.853,148.92,66.307,125.839,89.389,116.77,80.32,95.349,101.741,118.908,125.3,97.878,146.331l24.834,24.834a60.8,60.8,0,0,0,70.97-68.241L165.539,74.781Z" transform="translate(-72.705 -50.558)" fill="#f3b747"/>
+      <path id="Trazado_690922" data-name="Trazado 690922" d="M106,183.382v52.23h35.611l4.444-27.754-4.444-24.476Z" transform="translate(-80.828 -139.839)" fill="#fff"/>
+      <path id="Trazado_690923" data-name="Trazado 690923" d="M291.611,183.382H256v52.23h7.122l10.683-2.683,10.683,2.683h7.122Z" transform="translate(-195.217 -139.839)" fill="#e9edf5"/>
+      <path id="Trazado_690924" data-name="Trazado 690924" d="M0,0H21.367V35.611H0Z" transform="translate(89.272 95.773) rotate(180)" fill="#72b1f5"/>
+      <path id="Trazado_690925" data-name="Trazado 690925" d="M0,0H21.367V11.87H0Z" transform="translate(53.661 70.517) rotate(180)" fill="#a9d4fb"/>
+      <path id="Trazado_690926" data-name="Trazado 690926" d="M91,165.568a3.561,3.561,0,1,0,7.122,0V153.293L91,156.547Z" transform="translate(-69.389 -116.893)" fill="#f77b83"/>
+      <path id="Trazado_690927" data-name="Trazado 690927" d="M151,153.293v12.275a3.561,3.561,0,1,0,7.122,0V153.293Z" transform="translate(-115.145 -116.893)" fill="#f77b83"/>
+      <path id="Trazado_690928" data-name="Trazado 690928" d="M211,153.293v12.275a3.561,3.561,0,1,0,7.122,0V153.293Z" transform="translate(-160.9 -116.893)" fill="#f77b83"/>
+      <g id="Grupo_947508" data-name="Grupo 947508" transform="translate(21.611 24.222)">
+        <path id="Trazado_690929" data-name="Trazado 690929" d="M271,153.293v12.275a3.561,3.561,0,0,0,7.122,0V153.293Z" transform="translate(-228.267 -141.116)" fill="#f5435e"/>
+        <path id="Trazado_690930" data-name="Trazado 690930" d="M331,153.293v12.275a3.561,3.561,0,1,0,7.122,0V153.293Z" transform="translate(-274.022 -141.116)" fill="#f5435e"/>
+        <path id="Trazado_690931" data-name="Trazado 690931" d="M391,165.568a3.561,3.561,0,1,0,7.122,0v-9.021L391,153.293Z" transform="translate(-319.778 -141.116)" fill="#f5435e"/>
+        <path id="Trazado_690932" data-name="Trazado 690932" d="M132.5,111.426,130.172,102H98.122L91,117.431h7.122v9.021a3.561,3.561,0,1,0,7.122,0v-9.021h7.122v9.021a3.561,3.561,0,1,0,7.122,0v-9.021h7.122v9.021a3.561,3.561,0,0,0,3.561,3.561Z" transform="translate(-91 -102)" fill="#f5435e"/>
+      </g>
+      <path id="Trazado_690933" data-name="Trazado 690933" d="M295.172,117.431,288.05,102H256v28.014a3.561,3.561,0,0,0,3.561-3.561v-9.021h7.122v9.021a3.561,3.561,0,1,0,7.122,0v-9.021h7.122v9.021a3.561,3.561,0,1,0,7.122,0v-9.021Z" transform="translate(-195.217 -77.778)" fill="#c9003d"/>
+      <path id="Trazado_690934" data-name="Trazado 690934" d="M191,66.307V82.926h15.432l1.215-8.309-1.215-8.309Z" transform="translate(-145.648 -50.558)" fill="#fff"/>
+      <path id="Trazado_690935" data-name="Trazado 690935" d="M256,66.307h15.431V82.926H256Z" transform="translate(-195.217 -50.558)" fill="#e9edf5"/>
+      <path id="Trazado_690936" data-name="Trazado 690936" d="M228.717,83.788l-1.077,1.077,4.711,2.336-3.074,3.243-1.613-.353L226.6,91.158l2.245.99.99,2.246,1.067-1.067-.353-1.613,3.031-2.873.587-2.041-.587-2.032Z" transform="translate(-172.794 -63.889)" fill="#f77b83"/>
+      <path id="Trazado_690937" data-name="Trazado 690937" d="M258.548,87.629l1.077-1.077-1.181-5.866,2.292-2.292a2.289,2.289,0,0,0,.626-2.064,2.288,2.288,0,0,0-2.064.627l-2.292,2.292-1.006-.2v4.074l.212-.2Z" transform="translate(-195.217 -58.167)" fill="#f5435e"/>
+    </g>
+  </g>
+</svg>
