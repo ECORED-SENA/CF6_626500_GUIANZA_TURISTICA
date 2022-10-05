@@ -348,7 +348,7 @@ export default {
       referencia:
         'ICONTEC. (2011). Guía para la identificación de los peligros y la valoración de los riesgos en seguridad y salud ocupacional. ICONTEC.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000076763',
+        'https://www.academia.edu/6571381/GU%C3%8DA_PARA_LA_IDENTIFICACI%C3%93N_DE_LOS_PELIGROS_Y_LA_VALORACI%C3%93N_DE_LOS_RIESGOS_EN_SEGURIDAD_Y_SALUD_OCUPACIONAL',
     },
     {
       referencia: 'ICONTEC. (2010). Guía Técnica Colombiana GTC 45. ICONTEC.',
@@ -398,7 +398,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Comercio, Industria y Turismo de Colombia. Normas técnicas del sector. Mincit.',
+        'Ministerio de Comercio, Industria y Turismo de Colombia. Normas técnicas sectoriales. Mincit.',
       link:
         'https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales',
     },
@@ -407,12 +407,6 @@ export default {
         'Ministerio de Turismo de Argentina y Presidencia de la Nación. (2013). Directrices de gestión ambiental para municipios turísticos. AHT, FEHGRA. ',
       link:
         'http://www.turismo.gob.ar/sites/default/files/1_manual_dga_municipios.pdf',
-    },
-    {
-      referencia:
-        'Ministerio de Comercio, Industria y Turismo de Colombia. Normas técnicas del sector. Mincit. ',
-      link:
-        'https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales',
     },
     {
       referencia:

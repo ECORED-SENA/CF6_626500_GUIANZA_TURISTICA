@@ -6,7 +6,6 @@
       .titulo-principal__numero
         span 4
       h1 Seguridad turística
-    p #[sup 1] La norma menciona un plan de acción para efectos del guionaje turístico, es un plan de contingencia.
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.jpg')})`}"
@@ -196,7 +195,7 @@
     p.mb-5(data-aos='fade-right') Tienen como objetivo proporcionar el conocimiento y los recursos físicos que permitan responder de manera eficiente a la situación de emergencia, disminuyendo el impacto por las amenazas internas y externas, para aclarar el tema se invita a revisar el siguiente recurso de aprendizaje donde encontrará algunos elementos clave al momento de construir uno para el sector turístico:
       br
       br
-      | ¿ Qué se debe tener en cuenta para el diseño de un plan de emergencia?
+      | ¿Qué se debe tener en cuenta para el diseño de un plan de emergencia?
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema4/13.svg' alt='AvatarTop')
@@ -242,7 +241,7 @@
         img(src='@/assets/curso/temas/tema4/21.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
           .p-4
-            p Disponer de un esquema de activación con una estructura organizacional ajustada las necesidades de respuesta de las emergencias.
+            p Disponer de un esquema de activación con una estructura organizacional ajustada a las necesidades de respuesta de las emergencias.
     .rounded-pill.d-inline-block.p-2(style='background-color: #b7ceac').mb-5
       h4.px-3.mb-0.me-5 Evacuación de atractivos turísticos
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
@@ -280,17 +279,17 @@
         img(src='@/assets/curso/temas/tema4/27.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
           .p-4
-            p Actualización de actividades, considerando modificaciones estructurales, suministros, recursos capacidad de carga entre otros variables.
+            p Actualización de actividades, considerando modificaciones estructurales, suministros, recursos capacidad de carga entre otras variables.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema4/28.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
           .p-4
-            p Capacitación a los actores en manejo de multitudes, plan de emergencia, en procedimientos de evacuación (Antes, durante y después), primer respondientes y primeros auxilios.
+            p Capacitación a los actores en manejo de multitudes, plan de emergencia, en procedimientos de evacuación (Antes, durante y después), primer respondiente y primeros auxilios.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema4/29.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
           .p-4
-            p El plan de evacuación de considerar y valorar los peligros y riesgos externos.
+            p El plan de evacuación debe considerar y valorar los peligros y los riesgos externos.
     Separador
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 4.4 Responsabilidad civil del guía
@@ -308,28 +307,28 @@
             .col-9
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Ley 1558 de 2012
+                  p Ley 1558 de 2012
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://tinyurl.com/y9zkb43d" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Decreto 1379 de 2021
+                  p Decreto 1379 de 2021
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=172994" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                      span Ver documento
+                      i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Guías de turismo de Colombia. Normatividad
+                  p Guías de turismo de Colombia. Normatividad
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(href="https://guiasdeturismodecolombia.gov.co/normatividad" target="_blank")
-                      span Ver video
-                      i.fas.fa-play
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/normatividad-turismo" target="_blank")
+                      span Ver documento
+                      i.fas.fa-file
     p.mb-5(data-aos='fade-right') Igualmente, en la normativa se destacan las responsabilidades del guía, las cuales se podrán conocer en el siguiente recurso de aprendizaje:
     h3 Responsabilidades civiles del guía 
     .row.justify-content-center.mb-5
@@ -361,13 +360,13 @@
                   figure
                     img(src='@/assets/curso/temas/tema4/33.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
-                  p.mb-0 En el idioma en el que  requiera la prestación del servicio.
+                  p.mb-0 Prestar el servicio en el idioma en el que sea requerido.
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
                     img(src='@/assets/curso/temas/tema4/34.svg', alt='Texto que describa la imagen' style='width: 55px')
                 .col-10
-                  p.mb-0 Respetar las tarifas, expresando el costo total de los servicios, incluyendo cualquier tipo de tasa, cargo, sobrecargo o tarifa qué afecte el precio final. 
+                  p.mb-0 Respetar las tarifas, expresando el costo total de los servicios, incluyendo cualquier tipo de tasa, cargo, sobrecargo o tarifa que afecte el precio final. 
               .row.mb-3.align-items-center.justify-content-center
                 .col-md-2.mb-4.mb-md-0.col-3
                   figure
@@ -426,6 +425,7 @@
                 .col-10
                   p.mb-0 Las demás obligaciones establecidas en materia de publicidad para los prestadores de servicios turísticos. 
       .col-lg-5: img(src='@/assets/curso/temas/tema4/44.jpg', alt='')
+    p #[sup 1] La norma menciona un plan de acción para efectos del guionaje turístico, es un plan de contingencia.
 
 
 

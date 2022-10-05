@@ -27,7 +27,9 @@
         img(src='@/assets/curso/temas/tema6/4.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
           .p-4
-            p MICE.
+            p #[em Meeting, Incentives, Conferencing and Exhibitions]
+              br
+              | Reuniones, incentivos, conferencias y exposiciones
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema6/5.svg' alt='AvatarTop')
         .tarjeta.w-100.h-100(style='background-color: #ffd667')
@@ -71,7 +73,7 @@
               i.vineta
               | Ambientales: estos son llamados naturales porque el ser humano no los puede controlar, como la lluvia.
         .col-lg-6.col-8: img(src='@/assets/curso/temas/tema6/8.svg', alt='')
-    p.mb-5(data-aos='fade-right') En conclusión, el Sistema de Seguridad y Salud en el Trabajo (SG-SST), las unidades de riesgos, los sistemas públicos y privados se integran para abarcar el proceso global y lógico de vigilancia y mejora continua que garantiza a los trabajadores colombianos y ciudadanos acciones contundentes para el manejo de la seguridad como factor de alto interés, en los dos documentos que a continuación se muestran se pueden encontrar más detalles:
+    p.mb-5(data-aos='fade-right') En conclusión, el Sistema de Seguridad y Salud en el Trabajo (SG-SST), las unidades de riesgos, los sistemas públicos y privados se integran para abarcar el proceso global y lógico de vigilancia y mejora continua que garantiza a los trabajadores colombianos y ciudadanos, acciones contundentes para el manejo de la seguridad como factor de alto interés, en los dos documentos que a continuación se muestran se pueden encontrar más detalles:
     .row.justify-content-center.mb-5
       .col-lg-6
         .tarjeta.color-primario.p-4
@@ -82,7 +84,7 @@
             .col-9
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Guía Técnica Colombiana GTC 45.
+                  p Guía Técnica Colombiana GTC 45.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://saludocupacionalunad.files.wordpress.com/2012/07/gtc-45-2010.pdf" target="_blank")
@@ -90,7 +92,7 @@
                       i.fas.fa-file
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Decreto 1072 de 2015 capítulos 5 y 6.
+                  p Decreto 1072 de 2015 capítulos 5 y 6.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://www.icbf.gov.co/cargues/avance/docs/decreto_1072_2015.htm" target="_blank")

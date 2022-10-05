@@ -67,24 +67,21 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeon-inactivo")
       .row(titulo="Actos inseguros")
         .col-md-8.mb-4.mb-md-0
-          h4 Actos inseguros
-          p Hace referencia al comportamiento de las personas, el cual representa el 88% de las causas.
+          p Hace referencia al comportamiento de las personas, el cual representa el 88 % de las causas.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema1/9.jpg', alt='' style='border-radius: 20px')
             figcaption Deportes donde la seguridad personal se pone en riesgo
       .row(titulo="Condiciones peligrosas")
         .col-md-8.mb-4.mb-md-0
-          h4 Condiciones peligrosas
-          p Corresponde a las fallas en el diseño de proceso, equipos, máquinas y herramientas, por lo que representa el 10%.
+          p Corresponde a las fallas en el diseño de proceso, equipos, máquinas y herramientas, por lo que representa el 10 %.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema1/10.jpg', alt='' style='border-radius: 20px')
             figcaption Titanic, error humano y daño de maquinaría
       .row(titulo="Condiciones fuera de control")
         .col-md-8.mb-4.mb-md-0
-          h4 Condiciones fuera de control
-          p Estas no dependen del factor humano, ni de las condiciones en ninguna medida y representan solo el 2%.
+          p Estas no dependen del factor humano, ni de las condiciones en ninguna medida y representan solo el 2 %.
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema1/11.jpg', alt='' style='border-radius: 20px')
@@ -371,7 +368,7 @@
             p Son ocasionados por factores personales originados con comportamientos inadecuados durante la prestación del servicio guiado, trayendo como consecuencia una alta probabilidad de materializar un peligro en el contexto del servicio, tales como:  
               br
               br
-              |…los pensamientos de las personas, los modelos mentales, los valores, la ética asociada al guía de turismo, los temas de salud (estrés, estado mental, condiciones físicas, fatiga), el Incumplimiento a los estándares exigidos por la norma o entregados por la agencia contratante para el desarrollo del recorrido, o el Nivel de competitividad de las personas…
+              |los pensamientos de las personas, los modelos mentales, los valores, la ética asociada al guía de turismo, los temas de salud (estrés, estado mental, condiciones físicas, fatiga), el incumplimiento a los estándares exigidos por la norma o entregados por la agencia contratante para el desarrollo del recorrido, o el nivel de competitividad de las personas…
               br
               br
               |Al identificar estos factores personales se deben establecer modelos de gestión y crear herramientas para reducir su ocurrencia.
@@ -484,7 +481,7 @@
                   span Ir al sitio web
                   i.fas.fa-file-download
               .d-block
-                a.boton.color-acento-botones.texto-blanco(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000076763" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.academia.edu/6571381/GU%C3%8DA_PARA_LA_IDENTIFICACI%C3%93N_DE_LOS_PELIGROS_Y_LA_VALORACI%C3%93N_DE_LOS_RIESGOS_EN_SEGURIDAD_Y_SALUD_OCUPACIONAL" target="_blank")
                   span Ir al sitio web
                   i.fas.fa-file-download
 

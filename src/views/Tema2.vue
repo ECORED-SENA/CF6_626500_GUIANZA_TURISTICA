@@ -154,7 +154,7 @@
               | Liderar la coordinación del funcionamiento y el desarrollo del sistema nacional para la prevención y atención de desastres – SNPAD. 
         .col-lg-4.col-6: img(src='@/assets/curso/temas/tema2/12.svg', alt='')
     p.mb-5(data-aos='fade-right').text-center  En adición es importante que conozca cuáles son sus funciones que se resumen en el siguiente recurso de aprendizaje.
-    h5.ms-5 Unidad Nacion de Gestión de Desastres
+    h5.ms-5 Unidad Nacional de Gestión de Desastres
     p.ms-5 Funciones 
     SlyderF.slyder-100.mb-5(columnas="col-lg-4 col-xl-4")
       .tarjeta(style='background-color: #ffd667').p-4.h-100
@@ -378,7 +378,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-sm-0
-                  p.mb-0 Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
+                  p.mb-0 Ministerio de Comercio, Industria y Turismo de Colombia, Normas técnicas sectoriales.
                 .col-sm-auto
                   .d-block
                     a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales" target="_blank")
@@ -413,7 +413,8 @@
                   p.text-small ISO 45001.  Requisitos con orientación para la aplicación de seguridad y salud en el trabajo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
+
                       span Ver documento
                       i.fas.fa-file
               .row.justify-content-between.align-items-center
@@ -421,7 +422,8 @@
                   p.text-small ISO 31000:2018. Gestión del riesgo.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.fao.org/3/ad818s/ad818s08.htm" target="_blank")
+
                       span Ver documento
                       i.fas.fa-file
               .row.justify-content-between.align-items-center
@@ -429,7 +431,8 @@
                   p.text-small ISO 14001. Requisitos necesarios para implementar un Sistema de Gestión Medioambiental.
                 .col-sm-auto
                   .d-block.mb-4
-                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc7.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/doc6.pdf')" target="_blank")
+
                       span Ver documento
                       i.fas.fa-file
     p.mb-5(data-aos='fade-right').text-center A nivel de turismo las ISO representativas se encuentran descritas a continuación:
@@ -492,7 +495,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, normas técnicas del sector.
+                  p.text-small Ministerio de Comercio, Industria y Turismo de Colombia, Normas técnicas sectoriales.
                 .col-sm-auto
                   .d-block.mb-4
                     a.boton.color-acento-botones.texto-blanco(href="https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales" target="_blank")
@@ -565,7 +568,7 @@
     p.mb-5(data-aos='fade-right').text-center Para resumir el tema sobre normatividad en el sector turístico se invita a mirar el siguiente video.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/i0aVdMpKmaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
